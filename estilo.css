@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(27, 9, 77);
+}
+
+header {
+    color: rgb(255, 255, 255);
+    font: normal 15px arial;
+    text-align: center;
+}
+
+section {
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.671);
+    background: beige ;
+    border-radius: 15px;
+    padding: 15px;
+    width: 350px;
+    margin: auto;
+    
+    font: italic 19px normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer {
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+}
+
+.numero {
+    border-color: rgba(255, 255, 255, 0.76);
+    border-radius: 5px;
+    padding: 4px;
+    border-style: inset;
+    
+}
+
+.sbutton {
+    background-color: rgb(71, 62, 156);
+    color:cornsilk;
+    margin-top: 10px;
+    border-radius: 20px;
+    border-color: rgb(72, 61, 163);
+    font: normal 15px;
+}
+
+#text {
+    padding: 10px;
+    font: italic 15px normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
